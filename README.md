@@ -1,5 +1,5 @@
 > 안녕하세요.  
-> 가슴뛰는 일을 하는 Android 개발자, 김다빈입니다!  
+> 김다빈입니다!  
 
 ✨   [portfolio](https://abundant-playground-8c8.notion.site/ce7fca1d4f564e74b696db7d3c4467e3) (공사~ing)  
 ✉    [email](alalekqls22@naver.com)  
