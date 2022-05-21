@@ -1,9 +1,9 @@
-김다빈
-Android App Developer
+김다빈 
+Android App Developer 
 
-✨ portfolio 공사중,,
-✉ email   alalekqls22@naver.com
-🍃 github  [http://github.com/tngusmiso](https://github.com/dabinKim-0318)
-✍ tistory   [https://tngusmiso.tistory.com/](https://dabin-kim.tistory.com/)
-🖊 velog   [https://blog.naver.com/tngusmiso](https://velog.io/@dabin)
+✨   [portfolio](https://abundant-playground-8c8.notion.site/ce7fca1d4f564e74b696db7d3c4467e3) (공사~ing)  
+✉    [email](alalekqls22@naver.com)  
+🍃   [github](https://github.com/dabinKim-0318)  
+✍   [tistory](https://dabin-kim.tistory.com/)  
+🖊    [velog](https://velog.io/@dabin)  
 
