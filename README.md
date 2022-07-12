@@ -1,7 +1,6 @@
 > 안녕하세요. 가슴뛰는 일을 하는 개발자, 김다빈입니다!  
 > 방문해주셔서 감사합니다😊
 
-✉    [email](alalekqls22@naver.com)   
 🖊    [velog](https://velog.io/@dabin)  
 🙋‍♀️    [resume](https://github.com/dabinKim-0318/Resume)  
 💖 [portfolio](https://abundant-playground-8c8.notion.site/c95a0a8f88e3413fbcd71b922bb7c9fd)
